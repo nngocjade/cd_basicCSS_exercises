@@ -1,1 +1,2 @@
-"# cd_basicCSS_exercises" 
+
+coderSchool basic css exercises
